@@ -2,7 +2,7 @@
 
 [The project](https://instagram-clone-f567f.web.app)
 
-Technologies used: firebase + React + MaterialUI
+Technologies used: firebase + React + MaterialUI + react-flip-move
 
 You can 
 1. Sign Up 
