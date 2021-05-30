@@ -27,7 +27,7 @@ export default function Feed() {
             username={post.username}
             verified={post.verified}
             text={post.text}
-            avatar="KB"
+            avatar={post.avatar}
             image={post.image}
           />
         ))}

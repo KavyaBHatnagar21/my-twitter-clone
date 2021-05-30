@@ -15,12 +15,12 @@ function Tweetbox() {
       e.preventDefault();
 
       db.collection("posts").add({
-        displayName: { displayName },
-        username: { email },
+        displayName,
+        username: email,
         verified: true,
         text: tweetMessage,
         image: tweetImage,
-        avatar: "KB",
+        avatar: photoURL,
       });
 
       setTweetMessage("");
