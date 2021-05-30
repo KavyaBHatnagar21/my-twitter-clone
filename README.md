@@ -5,7 +5,7 @@
 Technologies used: firebase + React + MaterialUI + react-flip-move
 
 You can 
-1. Sign Up 
+1. Sign Up usingGoogle
 2. Login 
 3. Tweet
 4. Upload an image 
