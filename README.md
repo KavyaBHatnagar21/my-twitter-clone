@@ -1,6 +1,6 @@
 # My Twitter
 
-[The project](https://instagram-clone-f567f.web.app)
+[The project](https://twitter-clone-d53e7.web.app)
 
 Technologies used: firebase + React + MaterialUI + react-flip-move
 
