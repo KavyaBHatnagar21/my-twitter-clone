@@ -2,7 +2,7 @@
 
 [The project](https://twitter-clone-d53e7.web.app)
 
-Technologies used: firebase + React + MaterialUI + react-flip-move
+Technologies used: firebase + React + MaterialUI + react-flip-move for animation
 
 You can 
 1. Sign Up using Google
